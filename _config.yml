@@ -11,9 +11,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Camelia Mendes
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: '/images/100.jpg'
+  author__name: Lucky Hu
+  author__bio: Always love Baking and My two lovely Cats.
+  author__avatar: '/images/01-01.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -29,8 +29,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Camelia Mendes
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration. with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. THis is lucky's bakery blog. here you can find all the recipes and tips for your bakery.happy baking!happy baking!h h h h
+  hero__title: Welcome to Lucky's Bakery
+  hero__description: 欢迎光临我的甜点小铺！
   hero__image: '/images/01.jpg'
 
 
