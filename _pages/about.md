@@ -13,9 +13,9 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
+    <img src="https://luckyhu28.github.io/luckybakery.github.io/images/102.jpg">
+    <img src="https://luckyhu28.github.io/luckybakery.github.io/images/105.jpg">
+    <img src="https://luckyhu28.github.io/luckybakery.github.io/images/107.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
