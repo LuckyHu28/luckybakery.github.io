@@ -1,21 +1,35 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
+title:  麦屯烘培
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-11-12 15:01:35 +0300
+date:   2022-10-27 15:01:35 +0300
 image:  '/images/07.jpg'
 tags:   [lifestyle, travel, story]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Jared Rice](https://unsplash.com/photos/AhiUnolb7cg) diversity and empowerment.
+### 烘培用具
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+sur la table是个不错的厨艺店，在amc，target旁边，里面有不少烘培工具，烘培食材，用品，价格偏高但质量不错很好逛，如果有当天需要的东西的话可以去里面逛逛。
 
-### Synergistically evolve
+amazon虽然不及淘宝但是也很神通广大，找不到的食材和模具可以去amazon试试运气。
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+每周六的州街尽头farmers market有猪油可以买，找卖猪肉的小哥询问就有。
 
-![House]({{site.baseurl}}/images/07-1.jpg#wide)
-*Photo by [Jared Rice](https://unsplash.com/photos/AhiUnolb7cg) on [Unsplash](https://unsplash.com/)*
+### 烘培小技巧
+
+高，中，低筋面粉作用大不相同，高筋面粉做出的口感比较有韧性，适合做面包。低筋面粉较为柔软，适合做蛋糕，酥皮类点心。中筋面粉在两者之间。
+
+代糖做出来的烘培大部分效果会不好，不仅仅是味道上的差别，颜值，效果有的时候也会翻车。
+
+西式点心的基础是戚风蛋糕，是个练习打发蛋白最好的方法，而打发蛋白是大部分西式甜点的基础，戚风蛋糕一定选用阳极模具，不沾模具切记不能烤戚风会爬不高。切记打发蛋白使用无水无油的碗。小白建议多多练习戚风，虽然一开始真的可能会被气疯。
+
+奶油的打法比蛋白要简单些，但很容易打的粗糙或者打发过度，应当一开始调高速度，观察快到想要状态转成低一点的速度打发才能够拥有细腻的奶油。想要抹面好一定需要裱花转盘和抹刀。
+
+中式点心技巧较少但是很磨人和时间，步骤繁多。
+
+面包吐司最好有厨师机再做，手揉会比较累。不必追求手套膜，我觉得就是厨师机营销手段，但是尽量揉软。面包吐司很耗时间，不建议用当天现做的吐司方法，强烈建议用种面法，隔夜发酵的香气是什么都比不过的。做高糖面包以及吐司需要耐高糖酵母，是必须。amazon有卖燕子耐高糖酵母。
+
+![Bread]({{site.baseurl}}/images/07-1.jpg#wide)
+
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
