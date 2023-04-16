@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  麦屯烘培
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
+description: sur la table是个不错的厨艺店...
 date:   2022-10-27 15:01:35 +0300
 image:  '/images/07.jpg'
-tags:   [lifestyle, travel, story]
+tags:   [烘培]
 ---
 ### 烘培用具
 
@@ -26,14 +26,12 @@ amazon虽然不及淘宝但是也很神通广大，找不到的食材和模具�
 
 中式点心技巧较少但是很磨人和时间，步骤繁多。
 
+公寓大部分都是小烤箱微波炉一体机要注意上火温度，大部分不能调节上下火，上火温度会偏高很多，小烤箱应当调低温度，烤到一半表面盖锡纸会比较好。大烤箱broil模式好上色，但要随时盯着因为上火温度会变得特别高。
+
 面包吐司最好有厨师机再做，手揉会比较累。不必追求手套膜，我觉得就是厨师机营销手段，但是尽量揉软。面包吐司很耗时间，不建议用当天现做的吐司方法，强烈建议用种面法，隔夜发酵的香气是什么都比不过的。做高糖面包以及吐司需要耐高糖酵母，是必须。amazon有卖燕子耐高糖酵母。
 
 ![Bread]({{site.baseurl}}/images/07-1.jpg#wide)
 
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
@@ -41,15 +39,9 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) potentialities.
 
-### Podcasting
+### Collary
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+个人认为最简单最容易成功的西式甜点是提拉米苏，巴斯克，以及玛格丽特饼干。想要先体验一下烘培的快乐可以简单试试这些，很不容易翻车。
 
-![Tree]({{site.baseurl}}/images/07-2.jpg)
-*Photo by [Angela Pham](https://unsplash.com/photos/_uqDYFkrmLM) on [Unsplash](https://unsplash.com/)*
+![巴斯克]({{site.baseurl}}/images/07-2.jpg)
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
