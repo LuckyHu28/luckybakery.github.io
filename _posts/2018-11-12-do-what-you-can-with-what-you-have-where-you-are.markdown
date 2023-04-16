@@ -33,11 +33,8 @@ amazon虽然不及淘宝但是也很神通广大，找不到的食材和模具�
 ![Bread]({{site.baseurl}}/images/07-1.jpg#wide)
 
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> “Dawn is for lovers and bakers.” 🥐    —— Mordern Love
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) potentialities.
 
 ### Collary
 

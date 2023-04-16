@@ -5,11 +5,12 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+大家好，我是Lucky～ 
+欢迎光临我的甜点博客！
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+我是一个重度美食爱好者，每天最大的快乐就是做好吃的和撸薄荷（猫），尤其喜欢烘培。
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+目前为止，我做过的甜点包括但不限于：蛋黄酥，黄油曲奇，俄罗斯蜂蜜蛋糕，奶油蛋糕，焦糖布丁，手指麻薯，雪花酥，牛轧糖，提拉米苏，泡芙，凤梨酥，杨枝甘露，手指饼干，果酱，玛德琳，以及美国一些小众的叫不上名的小点心。
 
 <div class="gallery-box">
   <div class="gallery">
@@ -17,19 +18,6 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
     <img src="https://luckyhu28.github.io/luckybakery.github.io/images/105.jpg">
     <img src="https://luckyhu28.github.io/luckybakery.github.io/images/107.jpg">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://www.youtube.com/embed/gghgYaYeG_M" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+我会在这里分享我做过的甜点的食谱，以及一些烘培的小技巧，希望能够帮助到大家。
