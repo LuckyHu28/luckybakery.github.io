@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Lucky Hu
   author__bio: Always love Baking and My two lovely Cats.
-  author__avatar: 'https://luckyhu28.github.io/luckybakery.github.io/images/01-01.jpg'
+  author__avatar: 'https://luckyhu28.github.io/luckybakery.github.io/images/01.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
